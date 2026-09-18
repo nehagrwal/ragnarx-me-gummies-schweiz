@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/ragnarx-me-gummies-schweiz/sitemap.xml
+Sitemap: https://ragnarx-me-gummies-schweiz.vercel.app/sitemap-vercel.xml
+Sitemap: https://ragnarx-me-gummies-schweiz.pages.dev/sitemap-cloudflare.xml
